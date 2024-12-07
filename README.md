@@ -74,13 +74,5 @@ Congratulations! You've guessed the correct number in 3 tries.
 - Add a graphical user interface (GUI) using Java Swing or JavaFX.  
 - Implement difficulty levels (e.g., Easy: 1-50, Medium: 1-100, Hard: 1-500).  
 - Track and display the player's highest score.  
-- Add a feature to replay the game without restarting the program.  
+- Add a feature to replay the game without restarting the program. 
 
----
-
-## License 📜  
-This project is licensed under the MIT License. Feel free to use, modify, and distribute the code.  
-
----
-
-Feel free to customize the repository with this README and let me know if you'd like to include additional details! 🚀
